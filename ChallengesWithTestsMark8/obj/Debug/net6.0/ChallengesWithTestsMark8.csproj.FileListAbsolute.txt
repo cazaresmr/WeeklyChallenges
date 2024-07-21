@@ -1,0 +1,15 @@
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/cazaresmr/Desktop/trueCoders/repos/softwareEngineering/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
